@@ -19,7 +19,7 @@ As a technical writer you will have to **communicate with various stakeholders a
 They will have different personalities and you will need to be able to adjust. It is your role to find out what and how to speak to each of them to gain the most out of each conversation.
 What's OK for one person, may not necessarily be fine with the other.
 
-![Alt text ](image.png)
+<p style="text-align: center"><img src="image.png"></p>
 
 ## D like... Don't expect too much
 The bigger our expectations are, the more we can get disappointed if something goes in a different way than we thought. Sometimes it's better to simply embrace what will come up during a conversation with an SME and **refrain from being overly demanding.**
@@ -44,7 +44,7 @@ You are the one who has to make the first move here. It is you who wants to get 
 ## J like... Just keep going
 You reached to an SME but there is no response? Time is running out and you don't know what to do? **Just keep going.** Go again through all available resources, try to find out if there is another SME who could help you with your work. Use your subjective judgement and common sense to finish the task. Be cautious with escalating the issue but do so if you see no other option.
 
-![Alt text](image-2.png)
+<p style="text-align: center"><img src="image-2.png"></p>
 
 ## K like... Keep it simple 
 Paraphrasing the title of Steve Krug’s well-known book on user experience design - "don't let your SME think". Tell them exactly what you need (or what you suppose you need), **make it easy for them to help you.** Don’t leave any doubts.
@@ -58,7 +58,7 @@ Paraphrasing the title of Steve Krug’s well-known book on user experience desi
 ## N like... Networking
 Treat reaching out to an SME as networking. You may actually start establishing contact with an SME before you need something from them, so that when it happens, they will be much more willing to help because they will already know you. The well-known principle **you scratch my back and I'll scratch yours** also applies here.
 
-![Alt text](image-3.png)
+<p style="text-align: center"><img src="image-3.png"></p>
 
 ## O like... Options
 What worked surprisingly well for me was reaching out to SME-s with a few **options to choose from.** Instead of asking them “Hey, can you help me with xyz?”, I wrote “Hey, I have an xyz issue. Can we meet do discuss xyz or will you write down abc about xyz?” This may not work with every SME but you may try it.
@@ -75,7 +75,7 @@ Sometimes you need to ping the SME more than once. SME-s tend to be very busy so
 ## S like... Set the cooperation rules
 Especially if you know that you will regularly cooperate with the SME it’s worth to **establish some rules on how the cooperation will look like.** Will you communicate verbally or in writing? How often? How much time per week/month? It will definitely put more structure into your teamwork.
 
-![Alt text](image-4.png)
+<p style="text-align: center"><img src="image-4.png"></p>
 
 ## T like... Tribal knowledge
 For those of you who are unfamiliar with the term - **tribal knowledge** describes a situation in which there is knowledge within an organization that is not documented anywhere and exists only in the minds of the people who know something about an issue, a process etc. This isn’t a desirable phenomenon, especially within big structures, like international companies. By reaching out to SME-s and asking questions, **you play an important role in taking this useful knowledge to light**, so let that be your motivation to **be persistent** while dealing with an unresponsive SME.
@@ -89,7 +89,7 @@ Visibility can be a powerful tool in a company. **When people know you and what 
 ## W like... Why behind something 
 Many SME-s seem to be much more cooperative when they **see the why behind** things. A short explanation of what do you need the information for and how it fits into a bigger picture work well at least with certain types of SME-s.
 
-![Alt text](image-5.png)
+<p style="text-align: center"><img src="image-5.png"></p>
 
 ## X like... X-factor
 The X factor understood as a **quality that you cannot describe that makes someone very special** may be a game changer as well. It sometimes goes hand in hand with someone’s visibility. The X factor may be also someone's very **well developed personal and social skills** so it’s definitely worth to polish them on an everyday basis.
