@@ -6,7 +6,7 @@ Some of them are really helpful and willing to share knowledge whereas some of t
 
 For those of you who may not be familiar with the term SME: an **SME is an is a professional who has extensive knowledge of a specific area of expertise.** SME-s are experienced individuals and go-to people if  you want to get to know more about a particular topic.
 
-Let’s go!   
+Let’s go! 😊
 
 ## A like... Appreciate
 Appreciate the SME you turn to to get information. All in all, they devote some valuable time from their busy workday to help you solve the issues you're dealing with. You can just **say thank you**, send an accolade or even give them a small gift to show that you care. A good idea could be to let know also their managers how supportive they are.
@@ -81,7 +81,7 @@ Especially if you know that you will regularly cooperate with the SME it’s wor
 For those of you who are unfamiliar with the term - **tribal knowledge** describes a situation in which there is knowledge within an organization that is not documented anywhere and exists only in the minds of the people who know something about an issue, a process etc. This isn’t a desirable phenomenon, especially within big structures, like international companies. By reaching out to SME-s and asking questions, **you play an important role in taking this useful knowledge to light**, so let that be your motivation to **be persistent** while dealing with an unresponsive SME.
 
 ## U like... User
-Technical writers are also sometimes referred to as **user advocates.** This is because even the best documentation cannot make up for a bad, unintuitive design. Keep in mind that representing the user and their issues may sometimes mean to handle an uncooperative SME as well 
+Technical writers are also sometimes referred to as **user advocates.** This is because even the best documentation cannot make up for a bad, unintuitive design. Keep in mind that representing the user and their issues may sometimes mean to handle an uncooperative SME as well 😉
 
 ## V like… Visibility
 Visibility can be a powerful tool in a company. **When people know you and what you are doing, you are more likely to receive the needed support.** I personally have had a few situations in which I was able to gain the information I needed mainly because the person I turned to knew me from my other projects.
