@@ -12,7 +12,7 @@ Let’s go! 😊
 Appreciate the SME you turn to to get information. All in all, they devote some valuable time from their busy workday to help you solve the issues you're dealing with. You can just **say thank you**, send an accolade or even give them a small gift to show that you care. A good idea could be to let know also their managers how supportive they are.
 
 ## B like... Be concrete
-Of course you may not know a lot about a particular subject, that's why you turn to an SME in the first place - to gain some knowledge. However, make sure that you do your homework and **prepare yourself** before you start asking questions that could be easily answered through just some basic research.
+Of course you may not know about a particular subject, that's why you turn to an SME in the first place - to gain some knowledge. However, make sure that you do your homework and **prepare yourself** before you start asking questions that could be easily answered through just some basic research.
 
 ## C like... Communication is key
 As a technical writer you will have to **communicate with various stakeholders and various SME-s**.
