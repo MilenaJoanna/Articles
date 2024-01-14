@@ -17,7 +17,7 @@ Of course you may not know about a particular subject, that's why you turn to an
 ## C like... Communication is key
 As a technical writer you will have to **communicate with various stakeholders and various SME-s**.
 They will have different personalities and you will need to be able to adjust. It is your role to find out what and how to speak to each of them to gain the most out of each conversation.
-What's OK for one person, may not necessarily be fine with the other.
+What's OK for one person, may not be fine with the other.
 
 <p style="text-align: center"><img src="image.png"></p>
 
