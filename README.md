@@ -1,5 +1,5 @@
 # Articles
-Here you can find my articles related to various topics.
+Here you can find my articles about various topics.
 
  
 
