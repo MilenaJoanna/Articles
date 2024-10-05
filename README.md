@@ -1,5 +1,5 @@
 # Articles
-Here you can find my articles related to technical writing:
+Here you can find my articles related to everyday work-life:
 
  
 
